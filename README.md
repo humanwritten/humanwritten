@@ -1,8 +1,11 @@
 🧠 [humanwritten.ai](https://humanwritten.ai/)
+
 human written content exploring ai, art and technology cutting through the noise of ai generated slop
 
 💭 Thoughtful insights on AI developemnt and culture
+
 🧪 Real experiments with AI tools and technologies
+
 📚 Tutorials & insights
 
 👉 [Subscribe here for new posts](https://humanwritten.ai/#/portal/signup)
