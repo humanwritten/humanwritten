@@ -12,7 +12,7 @@ human written content exploring ai, art and technology cutting through the noise
 
 Open to exploreing collaberations or ideas - please reach out with the chat bubble on the site :) 
 
-🎉 [Limited time offer of 90% off for a year of subscription (only $10) for the first 50 subscribers](https://humanwritten.ai/early) 🎉
+🎉 [Limited time offer of 80% off for a year of subscription (only $10) for the first 50 subscribers](https://humanwritten.ai/early) 🎉
 
 <!---
 humanwritten/humanwritten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
